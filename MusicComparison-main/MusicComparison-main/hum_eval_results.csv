@@ -1,0 +1,154 @@
+song_id,title,condition,query_len,top1_correct,top5_correct,latency_sec
+mOnGAQHbrK4,HARIYE JAO,exact,300,True,True,3.881345272064209
+mOnGAQHbrK4,HARIYE JAO,mild,316,True,True,4.3388447761535645
+mOnGAQHbrK4,HARIYE JAO,heavy,254,False,False,3.435516119003296
+8FzeqBVF8ms,Aadat,exact,300,True,True,3.5867624282836914
+8FzeqBVF8ms,Aadat,mild,298,True,True,3.8751444816589355
+8FzeqBVF8ms,Aadat,heavy,282,False,False,3.5890920162200928
+fBpKX5fFdcY,Vital Signs | Aesthetics اردو,exact,300,True,True,3.4115521907806396
+fBpKX5fFdcY,Vital Signs | Aesthetics اردو,mild,297,True,True,3.801513433456421
+fBpKX5fFdcY,Vital Signs | Aesthetics اردو,heavy,261,False,True,3.1812522411346436
+9GiLKf8Oizw,Ajob,exact,300,True,True,4.623916864395142
+9GiLKf8Oizw,Ajob,mild,304,True,True,4.00682806968689
+9GiLKf8Oizw,Ajob,heavy,334,True,True,4.2589991092681885
+c8i1Qpcnsa8,আমার পৃথিবী | Black | Album Amar Prithibi | Official Lyrical Band Song,exact,300,True,True,3.679992198944092
+c8i1Qpcnsa8,আমার পৃথিবী | Black | Album Amar Prithibi | Official Lyrical Band Song,mild,311,True,True,3.91751766204834
+c8i1Qpcnsa8,আমার পৃথিবী | Black | Album Amar Prithibi | Official Lyrical Band Song,heavy,248,False,True,3.1646218299865723
+Jh5oHAnDJ2U,আমার সারা দেহ | Zafor Iqbal & Others | Andrew Kishore | Noyoner Alo | Anupam,exact,300,True,True,4.413698196411133
+Jh5oHAnDJ2U,আমার সারা দেহ | Zafor Iqbal & Others | Andrew Kishore | Noyoner Alo | Anupam,mild,297,True,True,3.6877334117889404
+Jh5oHAnDJ2U,আমার সারা দেহ | Zafor Iqbal & Others | Andrew Kishore | Noyoner Alo | Anupam,heavy,324,True,True,3.99261212348938
+Nyzx5ReAQj4,Ami Jare Chaire,exact,300,True,True,3.5735037326812744
+Nyzx5ReAQj4,Ami Jare Chaire,mild,306,False,True,3.783478021621704
+Nyzx5ReAQj4,Ami Jare Chaire,heavy,333,False,True,4.144742488861084
+PlFICIpY6hw,Anmone 2,exact,300,True,True,3.624741554260254
+PlFICIpY6hw,Anmone 2,mild,293,True,True,3.6659457683563232
+PlFICIpY6hw,Anmone 2,heavy,293,False,True,3.6117122173309326
+cWAxUOjj8aQ,Epitaph  | Shopnochura,exact,300,True,True,4.154154539108276
+cWAxUOjj8aQ,Epitaph  | Shopnochura,mild,274,False,False,3.346925973892212
+cWAxUOjj8aQ,Epitaph  | Shopnochura,heavy,327,False,False,4.074889898300171
+umsrQSA2iOM,Nahin Milta,exact,300,True,True,4.13396143913269
+umsrQSA2iOM,Nahin Milta,mild,303,True,True,3.6710455417633057
+umsrQSA2iOM,Nahin Milta,heavy,317,False,True,4.01239538192749
+XMy4KmUgXJw,Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics),exact,300,True,True,3.5971436500549316
+XMy4KmUgXJw,Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics),mild,288,True,True,3.641063928604126
+XMy4KmUgXJw,Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics),heavy,305,False,False,3.765226364135742
+16y1AkoZkmQ,Rasputin (Sopot Festival 1979),exact,300,True,True,3.6134040355682373
+16y1AkoZkmQ,Rasputin (Sopot Festival 1979),mild,285,True,True,3.3784146308898926
+16y1AkoZkmQ,Rasputin (Sopot Festival 1979),heavy,257,False,True,3.1133174896240234
+a18py61_F_w,Coke Studio Season 8| Tajdar-e-Haram| Atif Aslam,exact,300,True,True,3.576824188232422
+a18py61_F_w,Coke Studio Season 8| Tajdar-e-Haram| Atif Aslam,mild,285,True,True,3.5674691200256348
+a18py61_F_w,Coke Studio Season 8| Tajdar-e-Haram| Atif Aslam,heavy,245,False,False,3.0913426876068115
+3YSRMSvkh4c,Dama Dam Mast Qalandar,exact,300,True,True,3.569648504257202
+3YSRMSvkh4c,Dama Dam Mast Qalandar,mild,310,True,True,3.791950225830078
+3YSRMSvkh4c,Dama Dam Mast Qalandar,heavy,350,False,False,4.512212753295898
+Ly7Z0ljOBd4,"December'er Shohorey || With Love, Calcutta OST",exact,300,True,True,3.706709861755371
+Ly7Z0ljOBd4,"December'er Shohorey || With Love, Calcutta OST",mild,292,True,True,3.749845266342163
+Ly7Z0ljOBd4,"December'er Shohorey || With Love, Calcutta OST",heavy,310,False,False,4.04554009437561
+bZsEIzEDbIs,Din Bari Jay,exact,300,True,True,3.773024797439575
+bZsEIzEDbIs,Din Bari Jay,mild,274,True,True,3.6732089519500732
+bZsEIzEDbIs,Din Bari Jay,heavy,274,False,False,3.5760316848754883
+YmdxYvLgsGg,Doob || ডুব || Habib Wahid || Mousumi || Mosharraf Karim || Projapoti || Bangla Movie Song,exact,300,True,True,3.5813331604003906
+YmdxYvLgsGg,Doob || ডুব || Habib Wahid || Mousumi || Mosharraf Karim || Projapoti || Bangla Movie Song,mild,307,True,True,4.025431871414185
+YmdxYvLgsGg,Doob || ডুব || Habib Wahid || Mousumi || Mosharraf Karim || Projapoti || Bangla Movie Song,heavy,244,False,False,3.1692769527435303
+NgEQL8UOAG4,Strings | 2000 | Duur,exact,300,True,True,3.7570600509643555
+NgEQL8UOAG4,Strings | 2000 | Duur,mild,301,True,True,3.9890565872192383
+NgEQL8UOAG4,Strings | 2000 | Duur,heavy,240,False,False,3.1326684951782227
+dLl4PZtxia8,Hotel California,exact,300,True,True,3.7741336822509766
+dLl4PZtxia8,Hotel California,mild,299,False,False,3.8315412998199463
+dLl4PZtxia8,Hotel California,heavy,240,False,False,2.933382749557495
+aFEPYpcmkEM,Audio | Hemanta Mukherjee | Gauriprasanna Mazumder,exact,300,True,True,3.794182538986206
+aFEPYpcmkEM,Audio | Hemanta Mukherjee | Gauriprasanna Mazumder,mild,308,True,True,4.069131851196289
+aFEPYpcmkEM,Audio | Hemanta Mukherjee | Gauriprasanna Mazumder,heavy,294,True,True,3.82083797454834
+KWEHAN37n_w,Balam | একাকি মন | বালাম | TI Antor | Music Video,exact,300,True,True,3.872657537460327
+KWEHAN37n_w,Balam | একাকি মন | বালাম | TI Antor | Music Video,mild,319,True,True,3.875303268432617
+KWEHAN37n_w,Balam | একাকি মন | বালাম | TI Antor | Music Video,heavy,291,False,False,3.4762747287750244
+iAXymug9VvQ,ঘুমন্ত শহরে | LRB | Ayub Bachchu | ঘুমন্ত শহরে | AB Kitchen,exact,300,True,True,3.344815492630005
+iAXymug9VvQ,ঘুমন্ত শহরে | LRB | Ayub Bachchu | ঘুমন্ত শহরে | AB Kitchen,mild,290,True,True,3.4399771690368652
+iAXymug9VvQ,ঘুমন্ত শহরে | LRB | Ayub Bachchu | ঘুমন্ত শহরে | AB Kitchen,heavy,281,False,False,3.2615299224853516
+XlNSOUfO-NA,Shironamhin | 25th Anniversary concert,exact,300,True,True,3.406090497970581
+XlNSOUfO-NA,Shironamhin | 25th Anniversary concert,mild,320,True,True,3.8064796924591064
+XlNSOUfO-NA,Shironamhin | 25th Anniversary concert,heavy,305,True,True,3.599106550216675
+ltZtMQCXGXI,Bangladeshi Band,exact,300,True,True,3.337031602859497
+ltZtMQCXGXI,Bangladeshi Band,mild,302,True,True,3.5765628814697266
+ltZtMQCXGXI,Bangladeshi Band,heavy,303,False,False,3.5013134479522705
+DZrTFdUcWHY,Bay of Bengal,exact,300,True,True,3.313462495803833
+DZrTFdUcWHY,Bay of Bengal,mild,293,False,True,3.450172185897827
+DZrTFdUcWHY,Bay of Bengal,heavy,298,False,False,3.43363356590271
+Rp-lybN8TCA,যেখানে সীমান্ত তোমার | Kumar Bishwajit | Evergreen Bangla Song,exact,300,True,True,3.4022281169891357
+Rp-lybN8TCA,যেখানে সীমান্ত তোমার | Kumar Bishwajit | Evergreen Bangla Song,mild,326,True,True,3.8587534427642822
+Rp-lybN8TCA,যেখানে সীমান্ত তোমার | Kumar Bishwajit | Evergreen Bangla Song,heavy,344,False,False,4.1642491817474365
+ROrqvuJ23zE,Prince Mahmud ft. Khalid,exact,300,True,True,3.334141731262207
+ROrqvuJ23zE,Prince Mahmud ft. Khalid,mild,287,False,True,3.4036757946014404
+ROrqvuJ23zE,Prince Mahmud ft. Khalid,heavy,346,False,False,4.052583932876587
+WTJSt4wP2ME,Wavin' Flag (Coca-Cola Celebration Mix),exact,300,True,True,3.4040064811706543
+WTJSt4wP2ME,Wavin' Flag (Coca-Cola Celebration Mix),mild,318,False,False,3.7391068935394287
+WTJSt4wP2ME,Wavin' Flag (Coca-Cola Celebration Mix),heavy,258,True,True,2.983248233795166
+QDYfEBY9NM4,Let It Be (Remastered 2009),exact,300,True,True,3.3093245029449463
+QDYfEBY9NM4,Let It Be (Remastered 2009),mild,274,True,True,3.179633617401123
+QDYfEBY9NM4,Let It Be (Remastered 2009),heavy,271,True,True,3.110154390335083
+A06Oc1z4ues,Lyrics | Anjan Dutta | Purono Guitar Modern Songs Anjan Dutt | Bangla Gaan,exact,300,True,True,3.2785391807556152
+A06Oc1z4ues,Lyrics | Anjan Dutta | Purono Guitar Modern Songs Anjan Dutt | Bangla Gaan,mild,280,True,True,3.2942779064178467
+A06Oc1z4ues,Lyrics | Anjan Dutta | Purono Guitar Modern Songs Anjan Dutt | Bangla Gaan,heavy,305,False,False,3.5491530895233154
+sLe3xW0FN2M,Esho Amar Shohore | Aluminium Er Dana | Official Video,exact,300,True,True,3.4693429470062256
+sLe3xW0FN2M,Esho Amar Shohore | Aluminium Er Dana | Official Video,mild,293,True,True,3.5141053199768066
+sLe3xW0FN2M,Esho Amar Shohore | Aluminium Er Dana | Official Video,heavy,359,True,True,4.242061138153076
+ew1fKCWb_M4,Vaseegara Official Video | Full HD | Harris Jayaraj | Madhavan | Gautham V Menon,exact,300,True,True,3.3857245445251465
+ew1fKCWb_M4,Vaseegara Official Video | Full HD | Harris Jayaraj | Madhavan | Gautham V Menon,mild,297,False,True,3.484659433364868
+ew1fKCWb_M4,Vaseegara Official Video | Full HD | Harris Jayaraj | Madhavan | Gautham V Menon,heavy,240,False,False,2.7692394256591797
+jx1j5yLlBPg,Souls,exact,300,True,True,3.443277597427368
+jx1j5yLlBPg,Souls,mild,326,True,True,3.936849594116211
+jx1j5yLlBPg,Souls,heavy,359,False,False,4.278114557266235
+nAIxCBm3ULk,Kaavish | Season 4 | Coke Studio Pakistan | @RohailHyattMusic,exact,300,True,True,3.37343692779541
+nAIxCBm3ULk,Kaavish | Season 4 | Coke Studio Pakistan | @RohailHyattMusic,mild,307,False,False,3.6419081687927246
+nAIxCBm3ULk,Kaavish | Season 4 | Coke Studio Pakistan | @RohailHyattMusic,heavy,359,False,False,4.275290012359619
+EeeObmCWLKA,Album Agontuk 2 | Official lyrical Video,exact,300,True,True,3.5793371200561523
+EeeObmCWLKA,Album Agontuk 2 | Official lyrical Video,mild,283,True,True,3.316416025161743
+EeeObmCWLKA,Album Agontuk 2 | Official lyrical Video,heavy,340,False,True,4.050850868225098
+3dxnaG9VFuI,ওরে নীল দরিয়া | Faruk & Kobori | Abdul Jabbar | Shareng Bou | Anupam,exact,300,True,True,3.4460089206695557
+3dxnaG9VFuI,ওরে নীল দরিয়া | Faruk & Kobori | Abdul Jabbar | Shareng Bou | Anupam,mild,318,True,True,3.784266948699951
+3dxnaG9VFuI,ওরে নীল দরিয়া | Faruk & Kobori | Abdul Jabbar | Shareng Bou | Anupam,heavy,297,False,False,3.4781060218811035
+0e4wMRI69ww,Pagla Ghora,exact,300,True,True,3.417733907699585
+0e4wMRI69ww,Pagla Ghora,mild,291,True,True,3.4637668132781982
+0e4wMRI69ww,Pagla Ghora,heavy,264,False,False,3.05857253074646
+Xc6uwbXpmUY,Ranjish Hi Sahi,exact,300,True,True,3.2716126441955566
+Xc6uwbXpmUY,Ranjish Hi Sahi,mild,309,True,True,3.664172410964966
+Xc6uwbXpmUY,Ranjish Hi Sahi,heavy,305,False,False,3.5185065269470215
+2prZz54mn3k,Lyrical Video | শোনো গো দখিন হাওয়া  | S.D.Burman | Bangla Gaan,exact,300,True,True,3.4543025493621826
+2prZz54mn3k,Lyrical Video | শোনো গো দখিন হাওয়া  | S.D.Burman | Bangla Gaan,mild,270,True,True,3.1626479625701904
+2prZz54mn3k,Lyrical Video | শোনো গো দখিন হাওয়া  | S.D.Burman | Bangla Gaan,heavy,244,False,False,2.8153235912323
+txqjiXaPH7c,Bari Siddiqui,exact,300,True,True,3.4934754371643066
+txqjiXaPH7c,Bari Siddiqui,mild,319,True,True,3.8445358276367188
+txqjiXaPH7c,Bari Siddiqui,heavy,252,False,False,2.9424688816070557
+m9TAaOWtPDQ,Black | Album Rock 202 | Official lyrical Video,exact,300,True,True,3.4346625804901123
+m9TAaOWtPDQ,Black | Album Rock 202 | Official lyrical Video,mild,278,True,True,3.3191020488739014
+m9TAaOWtPDQ,Black | Album Rock 202 | Official lyrical Video,heavy,336,True,True,4.036117315292358
+xqqMB6F_VyI,উৎসবের উৎসাহে | Artcell | Underground (Band Mixed Album) | Original Track,exact,300,True,True,3.4408092498779297
+xqqMB6F_VyI,উৎসবের উৎসাহে | Artcell | Underground (Band Mixed Album) | Original Track,mild,291,True,True,3.500535726547241
+xqqMB6F_VyI,উৎসবের উৎসাহে | Artcell | Underground (Band Mixed Album) | Original Track,heavy,273,False,False,3.225403070449829
+v7a6lIu5-kU,Vibe-Bidhatari Ronge Aka,exact,300,True,True,3.2668068408966064
+v7a6lIu5-kU,Vibe-Bidhatari Ronge Aka,mild,284,True,True,3.383375883102417
+v7a6lIu5-kU,Vibe-Bidhatari Ronge Aka,heavy,286,False,False,3.3294639587402344
+uB2rhjulY4Q,Purnota,exact,300,True,True,3.387949228286743
+uB2rhjulY4Q,Purnota,mild,270,True,True,3.179795503616333
+uB2rhjulY4Q,Purnota,heavy,263,False,False,3.061692953109741
+Qh_sxMN9UH8,Warfaze-Obak Bhalobasha,exact,300,True,True,3.310533285140991
+Qh_sxMN9UH8,Warfaze-Obak Bhalobasha,mild,305,True,True,3.6184592247009277
+Qh_sxMN9UH8,Warfaze-Obak Bhalobasha,heavy,272,False,False,3.1538867950439453
+4K6cvc27_CE,Wish You Were Here,exact,300,True,True,3.0877137184143066
+4K6cvc27_CE,Wish You Were Here,mild,328,False,False,3.9642155170440674
+4K6cvc27_CE,Wish You Were Here,heavy,323,False,False,3.874119281768799
+sjij_VKa2QQ,Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM,exact,300,True,True,3.439389944076538
+sjij_VKa2QQ,Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM,mild,312,True,True,3.7017605304718018
+sjij_VKa2QQ,Rehnaa hai terre Dil Mein |R.Madhavan |Dia Mirza | Bombay Jayashri |Romantic Song |RHTDM,heavy,292,False,False,3.4039204120635986
+VWzgd_ZiGks,ya ghali guitara,exact,300,True,True,3.2513203620910645
+VWzgd_ZiGks,ya ghali guitara,mild,326,True,True,3.8777823448181152
+VWzgd_ZiGks,ya ghali guitara,heavy,294,True,True,3.4451897144317627
+wnfUpOch510,Kobita | James | Lyrics,exact,300,True,True,3.3542325496673584
+wnfUpOch510,Kobita | James | Lyrics,mild,312,True,True,3.7011475563049316
+wnfUpOch510,Kobita | James | Lyrics,heavy,251,False,False,2.918994665145874
+0dGS7dNwlrU,Ki Jala | Hridoy Khan | Bangla Folk Song,exact,300,True,True,3.4121172428131104
+0dGS7dNwlrU,Ki Jala | Hridoy Khan | Bangla Folk Song,mild,272,False,False,3.187446117401123
+0dGS7dNwlrU,Ki Jala | Hridoy Khan | Bangla Folk Song,heavy,269,False,False,3.1213912963867188
+hWHCsysOxBk,꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂,exact,300,True,True,3.3974146842956543
+hWHCsysOxBk,꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂,mild,271,False,True,3.1823031902313232
+hWHCsysOxBk,꧁ Your Midnight Melody： Tomar Jonno Nilche Tara by Arnob (তোমার জন্য নীলচে তারা) I Official Audio ꧂,heavy,333,False,False,4.046466112136841
